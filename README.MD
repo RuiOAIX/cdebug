@@ -1,3 +1,3 @@
 ## How to use
 
-* docker run -it cdebug /bin/bash
+* docker run -v /a/folder:/work -it cdebug /bin/bash
